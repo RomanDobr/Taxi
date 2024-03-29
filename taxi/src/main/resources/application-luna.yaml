@@ -1,0 +1,5 @@
+taxi:
+  name: luna
+  rate:
+    daily: 10
+    night: 15

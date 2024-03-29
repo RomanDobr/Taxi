@@ -1,0 +1,5 @@
+taxi:
+  name: bluz
+  rate:
+    daily: 7
+    night: 30
